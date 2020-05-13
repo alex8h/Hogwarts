@@ -21,11 +21,11 @@ Hogwarts Houses:
 All rights:
 	- SELECT
 	- INSERT
-    - UPDATE
-    - DELETE
+    	- UPDATE
+    	- DELETE
 	- CREATE
-    - ALTER
-    - DROP
+    	- ALTER
+    	- DROP
 */
 
 char getch()
@@ -111,10 +111,7 @@ int main()
 
 
 
-/////////////// аутентификация
-
-
-
+/////////////// authentication and authorization
 
 
 	string name;
